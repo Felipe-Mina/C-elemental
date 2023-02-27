@@ -1,0 +1,3 @@
+﻿  archivo1.cpp
+C:\Users\minaf\source\repos\Triangulos\Triangulos\archivo1.cpp(7,28): warning C4101: 'mayoresADoce': variable local sin referencia
+  Triangulos.vcxproj -> C:\Users\minaf\source\repos\Triangulos\Debug\Triangulos.exe
